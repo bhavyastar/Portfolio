@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .box-6-a a{
   text-decoration: none;
 }
